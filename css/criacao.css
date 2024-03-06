@@ -5,11 +5,10 @@
 body {
     background-color: #000;
     background-image: url(/img/teste/image\ 14.png);
-    
 }
 .base {
     width: 38%;
-    height: 500px;
+    height: 440px;
     border-radius: 15px;
     background-color: #ffffff;
     border: 5px solid #000000;
@@ -87,11 +86,10 @@ footer{
     position: relative;
     font-size: 20px;
     text-align: center;
-    margin-top: 15px;
+    margin-top: 40px;
 }
 footer span{
     color: #FF961B;
-    padding-bottom: 50px;
 }
 p{
     color: #fff;
