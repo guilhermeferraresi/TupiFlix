@@ -5,7 +5,6 @@
 body {
     background-color: #000;
     background-image: url(img/teste/image\ 14.png);
-    background-image: url(/img/teste/image\ 14.png);
 }
 .base {
     width: 38%;
